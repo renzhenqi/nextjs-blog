@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node a"
+  },
+  "type": "module",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "gray-matter": "^4.0.3",
+    "next": "12.3.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "remark": "^14.0.3",
+    "remark-html": "^15.0.2"
+  }
+}
